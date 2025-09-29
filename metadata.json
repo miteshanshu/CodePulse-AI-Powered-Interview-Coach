@@ -1,0 +1,10 @@
+{
+  "name": "CodePulse",
+  "description": "CodePulse: Your personal AI interview coach. Get tailored questions, coding challenges, and mock interviews to land your dream tech job. Built by Mitesh.",
+  "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHJ4PSI1NiIgZmlsbD0iIzAyMDYxNyIvPjxwYXRoIGQ9Ik01NiAxODRMODkuMzMzMyAxODRMMTA2IDIwOEwxMjIuNjY3IDE4NEgyMDBDMjA0LjQxOCAxODQgMjA4IDE4MC40MTggMjA4IDE3NlY4MEMyMDggNzUuNTgxNyAyMDQuNDE4IDcyIDIwMCA3Mkg1NkM1MS41ODE3IDcyIDQ4IDc1LjU4MTcgNDggODBWMTc2QzQ4IDE4MC40MTggNTEuNTgxNyAxODQgNTYgMTg0WiIgZmlsbD0iIzBmMTcyYSIgc3Ryb2tlPSIjMWUyOTNiIiBzdHJva2Utd2lkdGg9IjQiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI2NCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwNmI2ZDQiPkFJPC90ZXh0Pjwvc3ZnPg==",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "author": "Mitesh Kr Anshu"
+}
